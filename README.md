@@ -1,4 +1,4 @@
-## EDA-Case-Studies
+## EDA-Statisical- Case-Studies
 
 Performed data munging & wrangling, exploratory analysis, descriptive & statistical analysis and visualization of data on the following case studies:
 1) Retail Customer Analysis
@@ -6,3 +6,4 @@ Performed data munging & wrangling, exploratory analysis, descriptive & statisti
 3) Insurance Claims Data
 4) Football Analysis
 5) Data Visualization for Sales Data
+6) Statisitcal Analysis for Customer Experience and Credit Card Usage Data
