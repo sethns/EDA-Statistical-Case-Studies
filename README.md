@@ -1,4 +1,4 @@
-## EDA-Statisical- Case-Studies
+## EDA and Statisical Case Studies
 
 Performed data munging & wrangling, exploratory analysis, descriptive & statistical analysis and visualization of data on the following case studies:
 1) Retail Customer Analysis
